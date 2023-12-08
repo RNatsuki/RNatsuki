@@ -12,10 +12,10 @@ He trabajado en proyectos de desarrollo de software utilizando Java, PHP, JavaSc
 
 ## Mis proyectos
 
-En mi perfil de [GitHub](https://github.com/tuusuario) encontrarás una variedad de proyectos en los que he trabajado, desde aplicaciones web hasta scripts y librerías. Estos proyectos reflejan mi pasión por la programación y mi dedicación para crear soluciones eficientes y de calidad.
+En mi perfil de [GitHub](https://github.com/RNatsuki) encontrarás una variedad de proyectos en los que he trabajado, desde aplicaciones web hasta scripts y librerías. Estos proyectos reflejan mi pasión por la programación y mi dedicación para crear soluciones eficientes y de calidad.
 
 ## Contacto
 
-Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme a través de mi correo electrónico [rodrigoibarra@example.com](mailto:rodrigoibarra@example.com). Estoy dispuesto a participar en desafíos y proyectos interesantes que me permitan seguir creciendo como desarrollador.
+Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme a través de mi correo electrónico [ibarra2002x@gmail.com](mailto:ibarra2002x@gmail.com). Estoy dispuesto a participar en desafíos y proyectos interesantes que me permitan seguir creciendo como desarrollador.
 
 ¡Espero poder conectar contigo y crear algunos "commits" divertidos juntos en el mundo de la programación! ¡Prepárate para disfrutar de un código repleto de creatividad y soluciones ingeniosas! ¡Y algunas no tanto...! 😉
