@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Rodrigo Ibarra
 
 ¡Hola! Soy Rodrigo Ibarra, un apasionado de la programación y los diferentes lenguajes que existen en el mundo del desarrollo de software. Mi experiencia abarca diversos lenguajes, entre los que destaco Java, PHP, JavaScript y Python. Actualmente, me estoy enfocando en TypeScript.
